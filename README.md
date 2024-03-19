@@ -22,3 +22,8 @@ Run the Node server using:
 ```bash
 npm start
 ```
+
+Please find the recoding here of starting server and using the app.
+```bash
+https://drive.google.com/file/d/1q2Nwc8aQij-GVsDWA62TITbWlD1e-5mv/view?usp=sharing
+```
