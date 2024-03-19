@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import axios from 'axios';
-import segmented_image_face from './segmented_image_face.jpg';
+import segmented_image_face from './segmented_image_face.png';
 import './App.css';
 
 function App() {
